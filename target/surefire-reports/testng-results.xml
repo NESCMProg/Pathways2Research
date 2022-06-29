@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-29T18:43:53 IST" name="Suite" finished-at="2022-06-29T18:51:23 IST" duration-ms="449921">
+    <groups>
+    </groups>
+    <test started-at="2022-06-29T18:43:53 IST" name="Test" finished-at="2022-06-29T18:51:23 IST" duration-ms="449921">
+      <class name="pathways2research.UAT.sustainabilityGroupPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:pathways2research.UAT.sustainabilityGroupPageTest@2ea227af]" started-at="2022-06-29T18:44:49 IST" name="setUp" finished-at="2022-06-29T18:46:06 IST" duration-ms="76465" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="sustanabilityTopic()[pri:0, instance:pathways2research.UAT.sustainabilityGroupPageTest@2ea227af]" started-at="2022-06-29T18:46:06 IST" name="sustanabilityTopic" finished-at="2022-06-29T18:47:01 IST" duration-ms="55102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sustanabilityTopic -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:pathways2research.UAT.sustainabilityGroupPageTest@2ea227af]" started-at="2022-06-29T18:47:01 IST" name="teardown" finished-at="2022-06-29T18:47:01 IST" duration-ms="600" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- pathways2research.UAT.sustainabilityGroupPageTest -->
+      <class name="pathways2research.UAT.educationGroupPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:pathways2research.UAT.educationGroupPageTest@4386f16]" started-at="2022-06-29T18:47:01 IST" name="setUp" finished-at="2022-06-29T18:48:13 IST" duration-ms="71166" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="educationTopic()[pri:0, instance:pathways2research.UAT.educationGroupPageTest@4386f16]" started-at="2022-06-29T18:48:13 IST" name="educationTopic" finished-at="2022-06-29T18:49:02 IST" duration-ms="49725" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- educationTopic -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:pathways2research.UAT.educationGroupPageTest@4386f16]" started-at="2022-06-29T18:49:02 IST" name="teardown" finished-at="2022-06-29T18:49:03 IST" duration-ms="496" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- pathways2research.UAT.educationGroupPageTest -->
+      <class name="pathways2research.UAT.bussinessGroupPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:pathways2research.UAT.bussinessGroupPageTest@363ee3a2]" started-at="2022-06-29T18:49:03 IST" name="setUp" finished-at="2022-06-29T18:50:16 IST" duration-ms="73048" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="businessEconomicsGroup()[pri:0, instance:pathways2research.UAT.bussinessGroupPageTest@363ee3a2]" started-at="2022-06-29T18:50:16 IST" name="businessEconomicsGroup" finished-at="2022-06-29T18:51:22 IST" duration-ms="66299" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- businessEconomicsGroup -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:pathways2research.UAT.bussinessGroupPageTest@363ee3a2]" started-at="2022-06-29T18:51:22 IST" name="teardown" finished-at="2022-06-29T18:51:23 IST" duration-ms="544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- pathways2research.UAT.bussinessGroupPageTest -->
+      <class name="pathways2research.UAT.pathwayHomePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:pathways2research.UAT.pathwayHomePageTest@4df50bcc]" started-at="2022-06-29T18:43:53 IST" name="setUp" finished-at="2022-06-29T18:44:18 IST" duration-ms="25159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="patronLoginValidation()[pri:0, instance:pathways2research.UAT.pathwayHomePageTest@4df50bcc]" started-at="2022-06-29T18:44:18 IST" name="patronLoginValidation" finished-at="2022-06-29T18:44:49 IST" duration-ms="30873" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- patronLoginValidation -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:pathways2research.UAT.pathwayHomePageTest@4df50bcc]" started-at="2022-06-29T18:44:49 IST" name="teardown" finished-at="2022-06-29T18:44:49 IST" duration-ms="389" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- pathways2research.UAT.pathwayHomePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
